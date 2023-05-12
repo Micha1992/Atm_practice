@@ -3,5 +3,5 @@ public class Deposit{
   // for depositing
   
   
- // createcd on github for practice 
+ // created on github for practice
 }
